@@ -16,3 +16,6 @@
 [submodule "web-apps"]
 	path = web-apps
 	url = https://github.com/kagapa-blr/web-apps.git
+[submodule "build_tools"]
+	path = build_tools
+	url = https://github.com/kagapa-blr/build_tools.git
