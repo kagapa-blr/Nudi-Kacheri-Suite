@@ -1,0 +1,18 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/kagapa-blr/core.git
+[submodule "desktop-apps"]
+	path = desktop-apps
+	url = https://github.com/kagapa-blr/desktop-apps.git
+[submodule "desktop-sdk"]
+	path = desktop-sdk
+	url = https://github.com/kagapa-blr/desktop-sdk.git
+[submodule "dictionaries"]
+	path = dictionaries
+	url = https://github.com/kagapa-blr/dictionaries.git
+[submodule "sdkjs"]
+	path = sdkjs
+	url = https://github.com/kagapa-blr/sdkjs.git
+[submodule "web-apps"]
+	path = web-apps
+	url = https://github.com/kagapa-blr/web-apps.git
